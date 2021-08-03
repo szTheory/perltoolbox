@@ -8,11 +8,11 @@ A curated list of Perl libraries by category. For an alternative list check out 
 - Date/Time - [DateTime](https://metacpan.org/pod/DateTime), [Time::Moment](https://metacpan.org/pod/Time::Moment), [Time::Piece](https://metacpan.org/pod/Time::Piece)
 - Date/Time, parser - [Time::ParseDate](https://metacpan.org/pod/Time::ParseDate)
 - Email sending - [Email::Sender](https://metacpan.org/pod/Email::Sender)
+- File paths - [Path::Tiny](https://metacpan.org/pod/Path::Tiny)
 - JSON schema validator - [JSON::Validator](https://metacpan.org/pod/JSON::Validator)
+- Logging (Log4j) - [Log::Log4perl](https://metacpan.org/pod/Log::Log4perl)
 - Task automation - [Rex](https://metacpan.org/pod/Rex)
 - Templates - [Mojo::Template](https://docs.mojolicious.org/Mojo/Template), [Template::Toolkit](https://metacpan.org/pod/Template::Toolkit)
-- File paths - [Path::Tiny](https://metacpan.org/pod/Path::Tiny)
-- Logging (Log4j) - [Log::Log4perl](https://metacpan.org/pod/Log::Log4perl)
 
 ## Concurrency
 
@@ -25,22 +25,22 @@ A curated list of Perl libraries by category. For an alternative list check out 
 
 - Database driver interface - [DBI](https://metacpan.org/pod/DBI)
 - ORM - [DBIx::Class](https://metacpan.org/pod/DBIx::Class)
-- Test framework - [Test2::Suite](https://metacpan.org/pod/Test2::Suite)
-- SQLite server - [DBD::SQLite](https://metacpan.org/pod/DBD::SQLite)
 - PostgreSQL driver - [Mojo::Pg](https://metacpan.org/pod/Mojo::Pg)
+- SQLite server - [DBD::SQLite](https://metacpan.org/pod/DBD::SQLite)
+- Test framework - [Test2::Suite](https://metacpan.org/pod/Test2::Suite)
 
 ## File Formats
 
-- Config files, Apache format - [Config::General](https://metacpan.org/pod/Config::General)
 - Config file loader, multi-format - [Config::Any](https://metacpan.org/pod/Config::Any)
+- Config files, Apache format - [Config::General](https://metacpan.org/pod/Config::General)
+- JSON - [JSON::MaybeXS](https://metacpan.org/pod/JSON::MaybeXS)
 - PDF writer - [PDF::API2](https://metacpan.org/pod/PDF::API2)
 - TAR archives - [Archive::Tar](https://metacpan.org/pod/Archive::Tar)
-- JSON - [JSON::MaybeXS](https://metacpan.org/pod/JSON::MaybeXS)
 
 ## Math
 
-- N-dimensional arrays - [PDL](https://metacpan.org/dist/PDL/view/Basic/Pod/API.pod)
 - Cryptography - [CryptX](https://metacpan.org/pod/CryptX)
+- N-dimensional arrays - [PDL](https://metacpan.org/dist/PDL/view/Basic/Pod/API.pod)
 
 ## Cloud
 
@@ -48,27 +48,27 @@ A curated list of Perl libraries by category. For an alternative list check out 
 
 ## Web Programming
 
-- Browser automation (Selenium) - [WWW::Selenium](https://metacpan.org/pod/WWW::Selenium)
 - Browser automation (Chrome) - [WWW::Mechanize::Chrome](https://metacpan.org/pod/WWW::Mechanize::Chrome)
+- Browser automation (Selenium) - [WWW::Selenium](https://metacpan.org/pod/WWW::Selenium)
 - DNS resolver - [Net::DNS](https://metacpan.org/release/NLNETLABS/Net-DNS-1.32/view/lib/Net/DNS.pm)
 - DOM parser - [Mojo::DOM](https://metacpan.org/pod/Mojo::DOM)
+- GraphQL - [GraphQL](https://metacpan.org/pod/GraphQL)
 - HTTP/1.1 client - [HTTP::Tiny](https://metacpan.org/pod/HTTP::Tiny)
 - Minify CSS - [CSS::Packer](https://metacpan.org/pod/CSS::Packer)
 - Minify HTML - [HTML::Packer](https://metacpan.org/pod/HTML::Packer)
 - Minify JavaScript - [JavaScript::Packer](https://metacpan.org/pod/JavaScript::Packer)
+- User agent detector - [HTTP::BrowserDetect](https://metacpan.org/pod/HTTP::BrowserDetect)
 - Web app framework, interface (PSGI) - [Plack](https://metacpan.org/pod/Plack)
 - Web app framework, lightweight - [Dancer](https://metacpan.org/pod/Dancer)
 - Web app framework, MVC - [Catalyst](https://metacpan.org/pod/Catalyst)
 - Web app framework, real-time [Mojolicious](https://metacpan.org/pod/Mojolicious)
 - Web scraper - [Mojo::UserAgent](https://docs.mojolicious.org/Mojo/UserAgent), [WWW::Mechanize](https://metacpan.org/pod/WWW::Mechanize)
 - Web server - [Starman](https://metacpan.org/pod/Starman)
-- User agent detector - [HTTP::BrowserDetect](https://metacpan.org/pod/HTTP::BrowserDetect)
-- GraphQL - [GraphQL](https://metacpan.org/pod/GraphQL)
 
 ## Mojolicious
 
-- OpenAPI - [Mojolicious::Plugin::OpenAPI](https://metacpan.org/pod/Mojolicious::Plugin::OpenAPI)
 - GraphQL - [Mojolicious::Plugin::GraphQL](https://metacpan.org/pod/Mojolicious::Plugin::GraphQL)
+- OpenAPI - [Mojolicious::Plugin::OpenAPI](https://metacpan.org/pod/Mojolicious::Plugin::OpenAPI)
 
 ## Languages Integration
 
@@ -76,8 +76,8 @@ A curated list of Perl libraries by category. For an alternative list check out 
 
 ## Language Tooling
 
-- Code formatter - [perltidy](https://metacpan.org/pod/perltidy)
 - Code coverage metrics - [Devel::Cover](https://metacpan.org/pod/Devel::Cover)
+- Code formatter - [perltidy](https://metacpan.org/pod/perltidy)
 - Debugger - [perldebug](https://perldoc.perl.org/perldebug)
 - Dependencies manager - [Carton](https://metacpan.org/pod/Carton)
 - Language server - [Perl::LanguageServer](https://metacpan.org/pod/Perl::LanguageServer), [PLS](https://metacpan.org/pod/PLS)
