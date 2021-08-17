@@ -13,6 +13,12 @@ A curated list of Perl libraries by category. For an alternative list check out 
 - Logging (Log4j) - [Log::Log4perl](https://metacpan.org/pod/Log::Log4perl)
 - Task automation - [Rex](https://metacpan.org/pod/Rex)
 - Templates - [Mojo::Template](https://docs.mojolicious.org/Mojo/Template), [Template::Toolkit](https://metacpan.org/pod/Template::Toolkit)
+- Character encodings - [Encode](https://metacpan.org/pod/Encode)
+- Fake data generator - [Data::Fake](https://metacpan.org/pod/Data::Fake)
+
+## Terminal
+- Command-line apps (CLI) - [App::Cmd](https://metacpan.org/pod/App::Cmd)
+- ANSI colors - [Term::ANSIColor](https://metacpan.org/pod/Term::ANSIColor)
 
 ## Concurrency
 
@@ -25,9 +31,12 @@ A curated list of Perl libraries by category. For an alternative list check out 
 
 - Database driver interface - [DBI](https://metacpan.org/pod/DBI)
 - ORM - [DBIx::Class](https://metacpan.org/pod/DBIx::Class)
-- PostgreSQL driver - [Mojo::Pg](https://metacpan.org/pod/Mojo::Pg)
+- PostgreSQL driver + migrations - [Mojo::Pg](https://metacpan.org/pod/Mojo::Pg)
 - SQLite server - [DBD::SQLite](https://metacpan.org/pod/DBD::SQLite)
 - Test framework - [Test2::Suite](https://metacpan.org/pod/Test2::Suite)
+- Elasticsearch client - [Search::Elasticsearch](https://metacpan.org/pod/Search::Elasticsearch)
+- Migrations - [sqitch](https://metacpan.org/dist/App-Sqitch/view/lib/sqitch.pod)
+- SQLite driver + migrations - [Mojo::SQLite](https://metacpan.org/pod/Mojo::SQLite)
 
 ## File Formats
 
@@ -36,6 +45,10 @@ A curated list of Perl libraries by category. For an alternative list check out 
 - JSON - [JSON::MaybeXS](https://metacpan.org/pod/JSON::MaybeXS)
 - PDF writer - [PDF::API2](https://metacpan.org/pod/PDF::API2)
 - TAR archives - [Archive::Tar](https://metacpan.org/pod/Archive::Tar)
+
+## Images
+
+- Exif metadata - [Image::ExifTool](https://metacpan.org/pod/Image::ExifTool)
 
 ## Math
 
