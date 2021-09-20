@@ -7,7 +7,7 @@ A curated list of Perl libraries by category. For an alternative list check out 
 - Data structure printer - [Data::Dumper](https://metacpan.org/pod/Data::Dumper)
 - Date/Time - [DateTime](https://metacpan.org/pod/DateTime), [Time::Moment](https://metacpan.org/pod/Time::Moment), [Time::Piece](https://metacpan.org/pod/Time::Piece)
 - Date/Time, parser - [Time::ParseDate](https://metacpan.org/pod/Time::ParseDate)
-- Email sending - [Email::Sender](https://metacpan.org/pod/Email::Sender)
+- Email sending - [Email::Stuffer](https://metacpan.org/pod/Email::Stuffer) [Email::Sender](https://metacpan.org/pod/Email::Sender)
 - File paths - [Path::Tiny](https://metacpan.org/pod/Path::Tiny)
 - JSON schema validator - [JSON::Validator](https://metacpan.org/pod/JSON::Validator)
 - Logging (Log4j) - [Log::Log4perl](https://metacpan.org/pod/Log::Log4perl)
