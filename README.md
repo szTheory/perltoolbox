@@ -95,7 +95,7 @@ A curated list of Perl libraries by category. For an alternative list check out 
 - Dependencies manager - [Carton](https://metacpan.org/pod/Carton)
 - Language server - [Perl::LanguageServer](https://metacpan.org/pod/Perl::LanguageServer), [PLS](https://metacpan.org/pod/PLS)
 - Linter - [Perl::Critic](https://metacpan.org/pod/Perl::Critic), [Perl::Critic::Freenode](https://metacpan.org/pod/Perl::Critic::Freenode)
-- Moduler installer - [cpanminus](https://metacpan.org/pod/App::cpanminus)
+- Moduler installer - [App::cpm](https://metacpan.org/pod/App::cpm) [cpanminus](https://metacpan.org/pod/App::cpanminus)
 - REPL - [Reply](https://metacpan.org/dist/Reply/view/bin/reply)
 - Version manager - [ASDF](https://github.com/ouest/asdf-perl)
 
