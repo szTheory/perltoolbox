@@ -4,21 +4,22 @@ A curated list of Perl libraries by category. For an alternative list check out 
 
 ## General Libraries
 
+- Character encodings - [Encode](https://metacpan.org/pod/Encode)
 - Data structure printer - [Data::Dumper](https://metacpan.org/pod/Data::Dumper)
 - Date/Time - [DateTime](https://metacpan.org/pod/DateTime), [Time::Moment](https://metacpan.org/pod/Time::Moment), [Time::Piece](https://metacpan.org/pod/Time::Piece)
 - Date/Time, parser - [Time::ParseDate](https://metacpan.org/pod/Time::ParseDate)
 - Email sending - [Email::Stuffer](https://metacpan.org/pod/Email::Stuffer) [Email::Sender](https://metacpan.org/pod/Email::Sender)
+- Fake data generator - [Data::Fake](https://metacpan.org/pod/Data::Fake)
 - File paths - [Path::Tiny](https://metacpan.org/pod/Path::Tiny)
 - JSON schema validator - [JSON::Validator](https://metacpan.org/pod/JSON::Validator)
 - Logging (Log4j) - [Log::Log4perl](https://metacpan.org/pod/Log::Log4perl)
 - Task automation - [Rex](https://metacpan.org/pod/Rex)
 - Templates - [Mojo::Template](https://docs.mojolicious.org/Mojo/Template), [Template::Toolkit](https://metacpan.org/pod/Template::Toolkit)
-- Character encodings - [Encode](https://metacpan.org/pod/Encode)
-- Fake data generator - [Data::Fake](https://metacpan.org/pod/Data::Fake)
+- Text wrapping and reformatting [Text::Autoformat](https://metacpan.org/pod/Text::Autoformat)
 
 ## Terminal
-- Command-line apps (CLI) - [App::Cmd](https://metacpan.org/pod/App::Cmd)
 - ANSI colors - [Term::ANSIColor](https://metacpan.org/pod/Term::ANSIColor)
+- Command-line apps (CLI) - [App::Cmd](https://metacpan.org/pod/App::Cmd)
 
 ## Concurrency
 
@@ -30,13 +31,13 @@ A curated list of Perl libraries by category. For an alternative list check out 
 ## Database
 
 - Database driver interface - [DBI](https://metacpan.org/pod/DBI)
-- ORM - [DBIx::Class](https://metacpan.org/pod/DBIx::Class)
-- PostgreSQL driver + migrations - [Mojo::Pg](https://metacpan.org/pod/Mojo::Pg)
-- SQLite server - [DBD::SQLite](https://metacpan.org/pod/DBD::SQLite)
-- Test framework - [Test2::Suite](https://metacpan.org/pod/Test2::Suite)
 - Elasticsearch client - [Search::Elasticsearch](https://metacpan.org/pod/Search::Elasticsearch)
 - Migrations - [sqitch](https://metacpan.org/dist/App-Sqitch/view/lib/sqitch.pod)
+- ORM - [DBIx::Class](https://metacpan.org/pod/DBIx::Class)
+- PostgreSQL driver + migrations - [Mojo::Pg](https://metacpan.org/pod/Mojo::Pg)
 - SQLite driver + migrations - [Mojo::SQLite](https://metacpan.org/pod/Mojo::SQLite)
+- SQLite server - [DBD::SQLite](https://metacpan.org/pod/DBD::SQLite)
+- Test framework - [Test2::Suite](https://metacpan.org/pod/Test2::Suite)
 
 ## File Formats
 
