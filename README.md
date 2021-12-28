@@ -68,6 +68,7 @@ A curated list of Perl libraries by category. For an alternative list check out 
 - DOM parser - [Mojo::DOM](https://metacpan.org/pod/Mojo::DOM)
 - GraphQL - [GraphQL](https://metacpan.org/pod/GraphQL)
 - HTTP/1.1 client - [HTTP::Tiny](https://metacpan.org/pod/HTTP::Tiny)
+- File MIME type detection - [File::LibMagic](https://metacpan.org/pod/File::LibMagic)
 - Minify CSS - [CSS::Packer](https://metacpan.org/pod/CSS::Packer)
 - Minify HTML - [HTML::Packer](https://metacpan.org/pod/HTML::Packer)
 - Minify JavaScript - [JavaScript::Packer](https://metacpan.org/pod/JavaScript::Packer)
